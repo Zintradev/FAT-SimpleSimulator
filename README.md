@@ -13,4 +13,4 @@ A simplified File Allocation Table (FAT) filesystem implementation for education
 ## Usage
 Run the simulator:
 ```bash
-python fat_simulator.py
+git clone https://github.com/Zintradev/FAT-SimpleSimulator.git
